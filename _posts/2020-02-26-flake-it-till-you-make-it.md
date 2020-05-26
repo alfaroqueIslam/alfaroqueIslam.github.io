@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How did the introduction of T20 Cricket affect run scoring in ODI Cricket?
-subtitle:by Alfaroque Islam
+subtitle: by Alfaroque Islam
 cover-img: /assets/img/path.jpg
 tags: [cricket, T20]
 ---
