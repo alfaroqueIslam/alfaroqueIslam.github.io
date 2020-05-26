@@ -12,4 +12,4 @@ Cricket, the second most popular sport in the world, has gone through many chang
 	I also took the overall average of these stats from before 2003 and after 2003 and compared them.
 	This shows that there is a significant increase in these numbers after 2003.
 
-	With the Information in hand I conclude that there is some correlation between T20 Cricket and the increased rate of run scoring in Odi Cricket. 
+With the Information in hand I conclude that there is some correlation between T20 Cricket and the increased rate of run scoring in Odi Cricket. 
